@@ -9,7 +9,7 @@ title = "pragmatic dharma"
 
 - [The Core Features of Pragmatic Dharma]({{< ref "texts/pragmatic-dharma/the-core-features-of-pragmatic-dharma.md" >}}) by Vince Horn
 
-In case you didn't notice it, there's a dedicated subsection with various Pragmatic Dharma texts on [the main page of this website](https://atrahhdis.github.io/#pd).
+In case you didn't notice it, there's a dedicated subsection with various Pragmatic Dharma texts on [the main page of this website]({{< ref "_index.md" >}}).
 
 &nbsp;
 ## What about the "mushroom culture"?
