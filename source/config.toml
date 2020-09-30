@@ -44,25 +44,25 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [[menu.main]]
   identifier = "how-to"
-  name = "how-to"
+  name = "How-To"
   url = "/e-book-how-to/"
   weight = 1
 
 [[menu.main]]
   identifier = "dharma"
-  name = "dharma"
+  name = "Dharma"
   url = "/dharma/"
   weight = 2
 
 [[menu.main]]
   identifier = "links"
-  name = "links"
+  name = "Links"
   url = "/links/"
   weight = 3
 
 [[menu.main]]
   identifier = "about"
-  name = "about"
+  name = "About"
   url = "/about/"
   weight = 4
 
