@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://atrahhdis.github.io/sitemap.xml
