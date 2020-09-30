@@ -9,7 +9,9 @@ I'm a Buddhist geek.
 
 I create dharma e-books using [markdown](https://en.wikipedia.org/wiki/Markdown)/[pandoc](https://pandoc.org/)/[calibre](https://pandoc.org/) and I upload them on [my github page](https://github.com/atrahhdis).
 
-Below you will find a list with links to these files. You can download them in **epub/mobi/azw3** formats (and some of them in pdf) and read them on your e-book device.
+Below you will find a list with links to these files. 
+
+You can download them in **epub/mobi/azw3** formats (and some of them in pdf) and read them on your e-book device.
 
 
 &nbsp;
