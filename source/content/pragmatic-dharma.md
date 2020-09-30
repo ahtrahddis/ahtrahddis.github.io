@@ -41,13 +41,13 @@ The most famous Pragmatic Dharma book is ["Mastering the Core Teachings of the B
 
 This website has also [an e-book section](https://atrahhdis.github.io/#pd), dedicated to Pragmatic Dharma. There, among others you will find:
 
-- [Saints & Psychopaths](https://github.com/atrahhdis/saints) by William (Bill) L. Hamilton
+- [Saints & Psychopaths](https://github.com/ahtrahddis/saints) by William (Bill) L. Hamilton
 
-- [Contemplative Fitness](https://github.com/atrahhdis/cfitness) by [Kenneth Folk](https://kennethfolkdharma.com/)
+- [Contemplative Fitness](https://github.com/ahrahddis/cfitness) by [Kenneth Folk](https://kennethfolkdharma.com/)
 
-- [The Three Speed Transmission: an unofficial collection of texts by Kenneth Folk](https://github.com/atrahhdis/kf3st) by [Kenneth Folk](https://kennethfolkdharma.com/)
+- [The Three Speed Transmission: an unofficial collection of texts by Kenneth Folk](https://github.com/ahtrahddis/kf3st) by [Kenneth Folk](https://kennethfolkdharma.com/)
 
-- [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/atrahhdis/alohadharma) by Ron Crouch
+- [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/ahtrahddis/alohadharma) by Ron Crouch
 
 
 &nbsp;
