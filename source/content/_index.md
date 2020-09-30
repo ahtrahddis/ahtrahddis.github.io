@@ -7,7 +7,7 @@ title = "welcome"
 
 I'm a Buddhist geek.
 
-I create dharma e-books using [markdown](https://en.wikipedia.org/wiki/Markdown)/[pandoc](https://pandoc.org/)/[calibre](https://pandoc.org/) and I upload them on [my github page](https://github.com/atrahhdis).
+I create dharma e-books using [markdown](https://en.wikipedia.org/wiki/Markdown)/[pandoc](https://pandoc.org/)/[calibre](https://pandoc.org/) and I upload them on [my github page](https://github.com/ahtrahddis).
 
 Below you will find a list with links to these files. 
 
@@ -39,60 +39,60 @@ The following links are from a website I have created, [mahasivipassana.com](htt
 &nbsp;
 ## Sayadaw U Tejaniya's Teachings (Burmese Theravada)
 
-- [Burmese Zen](https://github.com/atrahhdis/tejaniya/tree/master/Burmese%20Zen)
+- [Burmese Zen](https://github.com/ahtrahddis/tejaniya/tree/master/Burmese%20Zen)
 
-- [The Daily Tejaniya - 2015](https://github.com/atrahhdis/tejaniya/tree/master/The%20Daily%20Tejaniya) 
+- [The Daily Tejaniya - 2015](https://github.com/ahtrahddis/tejaniya/tree/master/The%20Daily%20Tejaniya) 
 
-- [Right Attitude](https://github.com/atrahhdis/tejaniya/tree/master/Right%20Attitude)
+- [Right Attitude](https://github.com/ahtrahddis/tejaniya/tree/master/Right%20Attitude)
 
 
 &nbsp;
 ## Pragmatic Dharma
 
-- [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/atrahhdis/alohadharma) by Ron Crouch
+- [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/ahtrahddis/alohadharma) by Ron Crouch
 
-- [The Three Speed Transmission: an unofficial collection of texts by Kenneth Folk](https://github.com/atrahhdis/kf3st) 
+- [The Three Speed Transmission: an unofficial collection of texts by Kenneth Folk](https://github.com/ahtrahddis/kf3st) 
 
-- [A Pragmatic Approach on the Stages of the Progress of Insight (Kenneth Folk & Ron Crouch)](https://github.com/atrahhdis/pragmapoi)
+- [A Pragmatic Approach on the Stages of the Progress of Insight (Kenneth Folk & Ron Crouch)](https://github.com/ahtrahddis/pragmapoi)
 
-- [Meditation, Insight, and Rationality](https://github.com/atrahhdis/medinra) by DavidM
+- [Meditation, Insight, and Rationality](https://github.com/ahtrahddis/medinra) by DavidM
 
-- [A non-mystical explanation of insight meditation and the three characteristics of existence](https://github.com/atrahhdis/ks3c) by Kaj Sotala <sup><span style="color: red;">new! (2020-09-30)</span></sup>
+- [A non-mystical explanation of insight meditation and the three characteristics of existence](https://github.com/ahtrahddis/ks3c) by Kaj Sotala <sup><span style="color: red;">new! (2020-09-30)</span></sup>
 
-- [Do Nothing Meditation](https://github.com/atrahhdis/donothing/tree/master/various/do%20nothing%20%28Shinzen%20Young%29) by Shinzen Young
+- [Do Nothing Meditation](https://github.com/ahtrahddis/donothing/tree/master/various/do%20nothing%20%28Shinzen%20Young%29) by Shinzen Young
 
-- [The two-part formula](https://github.com/atrahhdis/self-inquiry/tree/master/The%20two-part%20formula%20by%20Kim%20Katami) by Kim Katami
+- [The two-part formula](https://github.com/ahtrahddis/self-inquiry/tree/master/The%20two-part%20formula%20by%20Kim%20Katami) by Kim Katami
 
-- [A compilation of Shargrol's Posts at Dharmaoverground.org](https://github.com/atrahhdis/shargrol) (**note:** I just converted [Pepe's website](https://shargrolpostscompilation.blogspot.com/p/blog-page.html) to e-book format)
+- [A compilation of Shargrol's Posts at Dharmaoverground.org](https://github.com/ahtrahddis/shargrol) (**note:** I just converted [Pepe's website](https://shargrolpostscompilation.blogspot.com/p/blog-page.html) to e-book format)
 
-- [Contemplative Fitness](https://github.com/atrahhdis/cfitness) by Kenneth Folk (**note:** I just forked [eudoxos' repository](https://github.com/eudoxos/cfitness) and pushed back some minor corrections)
+- [Contemplative Fitness](https://github.com/ahtrahddis/cfitness) by Kenneth Folk (**note:** I just forked [eudoxos' repository](https://github.com/eudoxos/cfitness) and pushed back some minor corrections)
 
-- [Saints & Psychopaths](https://github.com/atrahhdis/saints) by William (Bill) L. Hamilton (**note:** I just forked [eudoxos' repository](https://github.com/eudoxos/saints) and pushed back some minor corrections)
+- [Saints & Psychopaths](https://github.com/ahtrahddis/saints) by William (Bill) L. Hamilton (**note:** I just forked [eudoxos' repository](https://github.com/eudoxos/saints) and pushed back some minor corrections)
 
 &nbsp;
 ## Soto Zen
 
-- [Handbook of Authentic Buddhism](https://github.com/atrahhdis/nishijima) by Nishijima
+- [Handbook of Authentic Buddhism](https://github.com/ahtrahddis/nishijima) by Nishijima
 
-- [Zazen Instruction](https://github.com/atrahhdis/donothing/tree/master/various/zazen%20instruction) by Shohaku Okumura
+- [Zazen Instruction](https://github.com/ahtrahddis/donothing/tree/master/various/zazen%20instruction) by Shohaku Okumura
 
-- [To You](https://github.com/atrahhdis/sawaki) by Kodo Sawaki
+- [To You](https://github.com/ahtrahddis/sawaki) by Kodo Sawaki
 
 &nbsp;
 ## Chan
 
-- [The Silent Illumination Method](https://github.com/atrahhdis/donothing/tree/master/various/silent%20illumination) by Sheng Yen
+- [The Silent Illumination Method](https://github.com/ahtrahddis/donothing/tree/master/various/silent%20illumination) by Sheng Yen
 
 &nbsp;
 ## Various
 
-- [4 Ways to Do Nothing](https://github.com/atrahhdis/donothing) (silent illumination/shikantaza/pristine mind/do nothing)
+- [4 Ways to Do Nothing](https://github.com/ahtrahddis/donothing) (silent illumination/shikantaza/pristine mind/do nothing)
 
 
 &nbsp;
 ## Self Inquiry (Advaita Vedanta)
 
-- [Who am I? (Ramana Maharshi) - A Translation and Commentary by David Godman](https://github.com/atrahhdis/self-inquiry/tree/master/Who%20Am%20I%3F%20-%20A%20Translation%20and%20Commentary%20by%20David%20Godman)  
+- [Who am I? (Ramana Maharshi) - A Translation and Commentary by David Godman](https://github.com/ahtrahddis/self-inquiry/tree/master/Who%20Am%20I%3F%20-%20A%20Translation%20and%20Commentary%20by%20David%20Godman)  
 
-- [The Ultimate Guide to Ramana Maharshi's Self-Inquiry](https://github.com/atrahhdis/self-inquiry/tree/master/The%20Ultimate%20Guide%20to%20Ramana%20Maharshi%27s%20Self-Inquiry) by Akilesh Ayyar
+- [The Ultimate Guide to Ramana Maharshi's Self-Inquiry](https://github.com/ahtrahddis/self-inquiry/tree/master/The%20Ultimate%20Guide%20to%20Ramana%20Maharshi%27s%20Self-Inquiry) by Akilesh Ayyar
 
