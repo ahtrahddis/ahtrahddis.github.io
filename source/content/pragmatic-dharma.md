@@ -18,7 +18,7 @@ In case you didn't notice it, there's a dedicated subsection with various Pragma
 Here's a short story shared by Kenneth Folk via his twitter account:
 
 > 
-> .....In fact, Bill (**editors note:** Hamilton) was himself an unabashed mushroomer, and not only withheld information but advocated doing so. (thread)
+> .....In fact, Bill (**editor's note:** Hamilton) was himself an unabashed mushroomer, and not only withheld information but advocated doing so. (thread)
 >     
 > When I returned from the IMS 3-month retreat in 1991, Bill told me where he thought I was on the Progress of Insight map. But his policy was to only share mapping information after the fact. In other words, he wouldn't talk with me about stages I hadn't yet attained.
 > 
