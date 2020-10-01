@@ -102,6 +102,10 @@ The following links are from a website I have created, [mahasivipassana.com](htt
 - [The Silent Illumination Method](https://github.com/ahtrahddis/donothing/tree/master/various/silent%20illumination) by [Sheng Yen](http://www.shengyen.org/eng)
 
 &nbsp;
+
+---
+
+&nbsp;
 ## Various
 
 - [4 Ways to Do Nothing](https://github.com/ahtrahddis/donothing) (silent illumination/shikantaza/pristine mind/do nothing)
