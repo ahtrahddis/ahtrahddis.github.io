@@ -13,6 +13,9 @@ Below you will find a list with links to these files.
 
 You can download them in **epub/mobi/azw3** formats (and some of them in pdf) and read them on your e-book device.
 
+&nbsp;
+
+---
 
 &nbsp;
 ## Mahasi Vipassana (Noting) (Burmese Theravada)
@@ -37,6 +40,10 @@ The following links are from a website I have created, [mahasivipassana.com](htt
 
 
 &nbsp;
+
+---
+
+&nbsp;
 ## Sayadaw U Tejaniya's Teachings (Burmese Theravada)
 
 - [Burmese Zen](https://github.com/ahtrahddis/tejaniya/tree/master/Burmese%20Zen)
@@ -45,6 +52,9 @@ The following links are from a website I have created, [mahasivipassana.com](htt
 
 - [Right Attitude](https://github.com/ahtrahddis/tejaniya/tree/master/Right%20Attitude)
 
+&nbsp;
+
+---
 
 &nbsp;
 ## Pragmatic Dharma
@@ -70,6 +80,10 @@ The following links are from a website I have created, [mahasivipassana.com](htt
 - [Saints & Psychopaths](https://github.com/ahtrahddis/saints) by William (Bill) L. Hamilton (**note:** I just forked [eudoxos' repository](https://github.com/eudoxos/saints) and pushed back some minor corrections)
 
 &nbsp;
+
+---
+
+&nbsp;
 ## Soto Zen
 
 - [Handbook of Authentic Buddhism](https://github.com/ahtrahddis/nishijima) by [Nishijima](https://www.shobogenzo.net/)
@@ -77,6 +91,10 @@ The following links are from a website I have created, [mahasivipassana.com](htt
 - [Zazen Instruction](https://github.com/ahtrahddis/donothing/tree/master/various/zazen%20instruction) by [Shohaku Okumura](https://dogeninstitute.wordpress.com/about/shohaku-okumura-roshi/)
 
 - [To You](https://github.com/ahtrahddis/sawaki) by [Kodo Sawaki](https://antaiji.org/archives/eng/sawaki-uchiyama.shtml)
+
+&nbsp;
+
+---
 
 &nbsp;
 ## Chan
@@ -88,6 +106,9 @@ The following links are from a website I have created, [mahasivipassana.com](htt
 
 - [4 Ways to Do Nothing](https://github.com/ahtrahddis/donothing) (silent illumination/shikantaza/pristine mind/do nothing)
 
+&nbsp;
+
+---
 
 &nbsp;
 ## Self Inquiry (Advaita Vedanta)
