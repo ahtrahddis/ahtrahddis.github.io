@@ -8,9 +8,7 @@ title = "dharma"
 
 ### How do I start meditating?
 
-Months ago, I created a small set of meditation instructions in pdf, in order to help the beginners of a meditation group I was a member of.
-
-Below you will find a link to a compressed file I shared with them. It includes some very basic instructions for:
+Below you will find a link to a compressed file that includes instructions in pdf format for the following techniques:
 
 - Mindfulness of Breath (from [TMI](https://www.goodreads.com/book/show/25942786-the-mind-illuminated))
 
@@ -51,7 +49,7 @@ In addition to the instructions given in this guide, I suggest that you don't on
 &nbsp;
 ### Are you interested in noting?
 
-If you have decided to go with noting (which is Mahasi Sayadaw's vipassana technique), apart from this nice introductory text included in the above pack, I suggest you to read the following material:
+If you have decided to go with noting (which is [Mahasi Sayadaw's Vipassana](https://mahasivipassana.com) technique), apart from this nice introductory text included in the above pack, I suggest you to read the following material:
 
 - [Practical Vipassana Meditation Exercises](https://mahasivipassana.com/docs/practical-vipassana-meditation-exercises/)
 
@@ -73,7 +71,8 @@ If you are interested in all-day practice, you might want to check [Sayadaw U Te
 ## Pragmatic Dharma
 
 For more information about Pragmatic Dharma, please visit [this link]({{< ref "pragmatic-dharma.md" >}}).
+
 &nbsp;
 ## Note
 
-On the above sections, I referred to other people as "beginners". Please note that I'm not an expert: I'm a beginner too and I just try to assist fellow meditators that know less than I do.
+Please note that I'm not an expert. I am just a beginner, trying to help fellow meditators that know less than I do.
