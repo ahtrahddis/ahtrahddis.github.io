@@ -8,7 +8,7 @@ title = "dharma"
 
 ### How do I start meditating?
 
-Months ago, I created a small set of meditation instructions in pdf, in order to help the beginners of a mediattion group I was a member of.
+Months ago, I created a small set of meditation instructions in pdf, in order to help the beginners of a meditation group I was a member of.
 
 Below you will find a link to a compressed file I shared with them. It includes some very basic instructions for:
 
@@ -20,7 +20,7 @@ Below you will find a link to a compressed file I shared with them. It includes 
 
 - Do nothing from (from Shinzen's [Five ways to know yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) and "Do Nothing" Meditation [youtube video](https://www.youtube.com/watch?v=cZ6cdIaUZCA)) (I later coverted this guide to [e-book](https://github.com/atrahhdis/donothing/tree/master/various/do%20nothing%20(Shinzen%20Young))!)
 
-- Metta (Loving Kindness) from ([this post](https://alohadharma.com/loving-kindness-meditation/))
+- Metta (Loving Kindness) from ([this post](https://web.archive.org/web/20190220215420/https://alohadharma.com/loving-kindness-meditation/))
 
 #### Download
 

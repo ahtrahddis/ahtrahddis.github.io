@@ -5,17 +5,17 @@ title = "pragmatic dharma"
 &nbsp;
 ## What is Pragmatic Dharma?
 
--  [What is Pragmatic Dharma?]({{< ref "texts/pragmatic-dharma/what-is-pragmatic-dharma.md" >}}) by Ron Crouch
+-  [What is Pragmatic Dharma?]({{< ref "texts/pragmatic-dharma/what-is-pragmatic-dharma.md" >}}) by [Ron Crouch](https://web.archive.org/web/20190424160827/https://alohadharma.com/about/)
 
 - [The Core Features of Pragmatic Dharma]({{< ref "texts/pragmatic-dharma/the-core-features-of-pragmatic-dharma.md" >}}) by Vince Horn
 
-In case you didn't notice it, there's a dedicated subsection with various Pragmatic Dharma texts on [the main page of this website]({{< ref "_index.md" >}}).
+In case you didn't notice it, there's a dedicated subsection with various Pragmatic Dharma texts on [the main page of this website]({{< ref "_index.md/#pragmatic-dharma" >}}).
 
 &nbsp;
 ## What about the "mushroom culture"?
 
 
-Here's a short story shared by Kenneth Folk via his twitter account:
+Here's a short story shared by [Kenneth Folk](https://kennethfolkdharma.com/) via [his twitter account](https://twitter.com/kennethfolk):
 
 > 
 > .....In fact, Bill (**editor's note:** Hamilton) was himself an unabashed mushroomer, and not only withheld information but advocated doing so. (thread)
@@ -47,7 +47,7 @@ This website has also [an e-book section](https://atrahhdis.github.io/#pd), dedi
 
 - [The Three Speed Transmission: an unofficial collection of texts by Kenneth Folk](https://github.com/ahtrahddis/kf3st) by [Kenneth Folk](https://kennethfolkdharma.com/)
 
-- [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/ahtrahddis/alohadharma) by Ron Crouch
+- [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/ahtrahddis/alohadharma) by [Ron Crouch](https://web.archive.org/web/20190424160827/https://alohadharma.com/about/)
 
 
 &nbsp;
