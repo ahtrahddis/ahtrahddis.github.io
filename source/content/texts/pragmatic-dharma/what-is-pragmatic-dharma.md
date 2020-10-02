@@ -5,7 +5,7 @@ aliases = "/pragmaticc/what-is-pragmatic-dharma"
 
 <br>
 
-*This is an article written by Ron Crouch*
+*This is an article by [Ron Crouch](https://web.archive.org/web/20190424160827/https://alohadharma.com/about/)*.
 
 <br>
 

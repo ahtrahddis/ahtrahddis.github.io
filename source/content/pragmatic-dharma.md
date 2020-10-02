@@ -7,7 +7,7 @@ title = "pragmatic dharma"
 
 -  [What is Pragmatic Dharma?]({{< ref "texts/pragmatic-dharma/what-is-pragmatic-dharma.md" >}}) by [Ron Crouch](https://web.archive.org/web/20190424160827/https://alohadharma.com/about/)
 
-- [The Core Features of Pragmatic Dharma]({{< ref "texts/pragmatic-dharma/the-core-features-of-pragmatic-dharma.md" >}}) by Vince Horn
+- [The Core Features of Pragmatic Dharma]({{< ref "texts/pragmatic-dharma/the-core-features-of-pragmatic-dharma.md" >}}) by [Vince Horn](http://www.vincehorn.space/)
 
 In case you didn't notice it, there's a dedicated subsection with various Pragmatic Dharma texts on [the main page of this website]({{< ref "_index.md/#pragmatic-dharma" >}}).
 

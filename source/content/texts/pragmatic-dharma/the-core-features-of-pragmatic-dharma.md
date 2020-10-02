@@ -4,7 +4,7 @@ title = "The Core Features of Pragmatic Dharma"
 
 <br>
 
-*This is [an article](https://www.pragmaticdharma.training/blog/core-features-pragmatic-dharma) written by [Vince Horn](http://www.vincehorn.space/)*
+*This is [an article](https://www.pragmaticdharma.training/blog/core-features-pragmatic-dharma) by [Vince Horn](http://www.vincehorn.space/)*.
 
 &nbsp;
 ## Introduction
