@@ -62,8 +62,8 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [[menu.main]]
   identifier = "about"
-  name = "About"
-  url = "/about/"
+  name = "Info"
+  url = "/info/"
   weight = 4
 
 [markup.goldmark.renderer]
