@@ -15,12 +15,12 @@ If you found a typo or formatting issue or.... on an e-book, apart from sending 
 
 
 &nbsp;
-## Website Changelog
+## Changelog
 
 In order to see website changes, new addiditons etc., visit [this link]({{< ref "changelog.md" >}}).
 
 
 &nbsp;
-## Website Software
+## Software
 
 This website was created with [hugo](https://gohugo.io/) and  [hugo bear blog](https://github.com/janraasch/hugo-bearblog) theme.
