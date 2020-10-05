@@ -38,6 +38,8 @@ title = "useful links"
 
 - [Doug's Dharma](https://www.youtube.com/channel/UCPIyEJzvW7SsbiIrooixjNA/videos) (an amazing secular/early Buddhism resource)
 
+- [Awakening from the Meaning Crisis](https://www.youtube.com/watch?v=54l8_ewcOlY&list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) by [John Vervaeke](https://www.psych.utoronto.ca/people/directories/all-faculty/john-vervaeke)
+
 &nbsp;
 ### Podcasts
 
