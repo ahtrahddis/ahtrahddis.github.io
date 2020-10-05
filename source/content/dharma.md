@@ -16,7 +16,7 @@ Below you will find a link to a compressed file that includes instructions in pd
 
 - Shikantaza (Zazen) (from [this e-book](https://github.com/atrahhdis/donothing/tree/master/various/zazen%20instruction))
 
-- Do nothing from (from Shinzen's [Five ways to know yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) and "Do Nothing" Meditation [youtube video](https://www.youtube.com/watch?v=cZ6cdIaUZCA)) (I later coverted this guide to [e-book](https://github.com/atrahhdis/donothing/tree/master/various/do%20nothing%20(Shinzen%20Young))!)
+- Do nothing from (from Shinzen's [Five ways to know yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) and "Do Nothing" Meditation [youtube video](https://www.youtube.com/watch?v=cZ6cdIaUZCA))
 
 - Metta (Loving Kindness) from ([this post](https://web.archive.org/web/20190220215420/https://alohadharma.com/loving-kindness-meditation/))
 
