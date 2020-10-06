@@ -5,13 +5,13 @@ title = "welcome"
 &nbsp;
 ## Intro
 
-**ЯƧ** is a repository of (unofficial) dharma e-books (and more...).
+**RS** is a repository of (unofficial) dharma e-books (and more..).
  
 They were created using [markdown](https://en.wikipedia.org/wiki/Markdown)/[pandoc](https://pandoc.org/)/[calibre](https://pandoc.org/) and were uploaded on [this github page](https://github.com/ahtrahddis).
 
-Below you will find an organized list with links to the github repositories of these books. 
+Below you will find an organized list with links to the relevant github repositories. 
 
-You can download them in **epub/mobi/azw3** (and some of them in pdf) formats and read them on your e-book (preferably e-ink) device.
+You can download them in **epub/mobi/azw3** (and some of them in **pdf**) formats and read them on your e-book (preferably e-ink) device.
 
 &nbsp;
 

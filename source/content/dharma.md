@@ -6,7 +6,7 @@ title = "dharma"
 &nbsp;
 ## Practice
 
-### How do I start meditating?
+### Meditation instructions for beginners
 
 Below you will find a link to a compressed file that includes instructions **in pdf** format for the following techniques:
 
@@ -68,6 +68,6 @@ If you are interested in all-day practice, you might want to check [Sayadaw U Te
 
 
 &nbsp;
-## Pragmatic Dharma
+## Do you want to know more about "Pragmatic Dharma"?
 
 For more information about Pragmatic Dharma, please visit [this link]({{< ref "pragmatic-dharma.md" >}}).
