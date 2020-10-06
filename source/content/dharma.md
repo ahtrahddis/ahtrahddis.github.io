@@ -8,7 +8,7 @@ title = "dharma"
 
 ### Meditation instructions for beginners
 
-Below you will find a link to a compressed file that includes instructions **in pdf** format for the following techniques:
+[Here](/downloads/mip.zip), you will get a compressed file that includes instructions **in pdf** for the following meditation techniques:
 
 - Mindfulness of Breath (from [TMI](https://www.goodreads.com/book/show/25942786-the-mind-illuminated))
 
@@ -20,18 +20,12 @@ Below you will find a link to a compressed file that includes instructions **in 
 
 - Metta (Loving Kindness) from ([this post](https://web.archive.org/web/20190220215420/https://alohadharma.com/loving-kindness-meditation/))
 
-#### Download
-
-To get this pack, use the following link:
-
-- [Meditation Instructions Pack](/downloads/mip.zip)
-
 &nbsp;
 ### Are you a complete beginner?
 
-If you don't have any idea what these methods are all about but you 're curious to try, just start with the "mindfulness of breath" instructions. 
+If you don't have any idea what these methods are all about but you 're curious to try, just start with  "mindfulness of breath". 
 
-In addition to the instructions given in this guide, I suggest that you don't only focus on the breath but you also do breath counting (from 1 to 10 and back), as [Shargrol](https://github.com/atrahhdis/shargrol) suggests on the [following text](https://shargrolpostscompilation.blogspot.com/p/blog-page.html#awarenessandcountingofbreath):
+In addition to the instructions given above, you can also do some breath counting (from 1 to 10 and back), as [Shargrol](https://github.com/atrahhdis/shargrol) suggests on the [following text](https://shargrolpostscompilation.blogspot.com/p/blog-page.html#awarenessandcountingofbreath):
 
 
 > Awareness and counting of breath is a great practice. For what it's worth, a good, practical combination is:
@@ -49,22 +43,20 @@ In addition to the instructions given in this guide, I suggest that you don't on
 &nbsp;
 ### Are you interested in noting?
 
-If you have decided to go with noting (which is [Mahasi Sayadaw's Vipassana](https://mahasivipassana.com) technique), apart from this nice introductory text included in the above pack, I suggest you to read the following material:
+If you have decided to go with noting (which is [Mahasi Sayadaw's Vipassana](https://mahasivipassana.com) technique), apart from theintroductory text included in the above pack, you can also read the following material:
 
 - [Practical Vipassana Meditation Exercises](https://mahasivipassana.com/docs/practical-vipassana-meditation-exercises/)
 
 - [Practical Insight Meditation: Basic Practice](https://mahasivipassana.com/docs/practical-insight-meditation-basic-practice/)
 
-I also suggest you to have a look at this contemporary version of noting by [Kenneth Folk](https://kennethfolkdharma.com):
+You can also have a look at this contemporary noting technique by [Kenneth Folk](https://kennethfolkdharma.com):
 
 - [Kenneth Folk's Freestyle Noting](https://mahasivipassana.com/contemporary-noting/#kenneth-folks-detailed-freestyle-noting)
-
-Keep in mind that you can actually practise by "labeling out loud", as Folk does in these videos. Sometimes, it really helps!
 
 &nbsp;
 ### Are you interested in all-day practice?
 
-If you are interested in all-day practice, you might want to check [Sayadaw U Tejaniya](https://ashintejaniya.org/) and [his teachings](https://ashintejaniya.org/teachings).
+If you are interested in all-day practice, you might want to check [Sayadaw U Tejaniya](https://ashintejaniya.org/) and [these freely downloadable texts](https://ashintejaniya.org/teachings) with his teachings.
 
 
 &nbsp;
