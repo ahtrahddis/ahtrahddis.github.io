@@ -20,7 +20,7 @@ You can download them in **epub/mobi/azw3** (and some of them in **pdf**) format
 &nbsp;
 ## Mahasi Vipassana (Noting) (Burmese Theravada)
 
-The following links are from a sister-website, [mahasivipassana.com](https://mahasivipassana.com) (MVMR):
+The following links go to a sister-website, [mahasivipassana.com](https://mahasivipassana.com) (MVMR):
 
 - [Questions and Answers with Mahasi Sayadaw](https://mahasivipassana.com/docs/mahasi-qa/)
 
@@ -38,6 +38,7 @@ The following links are from a sister-website, [mahasivipassana.com](https://mah
 
 - [A r/streamentry summary of Mahasi Sayadaw's book "The manual of Insight"](https://mahasivipassana.com/docs/a-r_streamentry-summary-of-mahasi-sayadaws-the-manual-of-insight/)
 
+These e-books can also be found on the [github repository of MVMR](https://github.com/ahtrahddis/mahasivipassana).
 
 &nbsp;
 
