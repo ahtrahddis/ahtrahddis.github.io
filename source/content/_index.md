@@ -8,9 +8,9 @@ title = "welcome"
  
 They were created using [markdown](https://en.wikipedia.org/wiki/Markdown)/[pandoc](https://pandoc.org/)/[calibre](https://pandoc.org/) and were uploaded on [this github page](https://github.com/ahtrahddis).
 
-Below you will find an organized list with links to the relevant github repositories. 
+Below you will find a list with links to the relevant github repositories. 
 
-You can download them in **epub/mobi/azw3** (and some of them in **pdf**) formats and read them on your e-book (preferably e-ink) device.
+There, you can download these e-books in **epub/mobi/azw3** (and some of them in **pdf**) and read them on your e-book (preferably e-ink) device.
 
 &nbsp;
 
