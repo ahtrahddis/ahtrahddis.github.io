@@ -8,7 +8,7 @@ title = "dharma"
 
 ### How do I start meditating?
 
-Below you will find a link to a compressed file that includes instructions in pdf format for the following techniques:
+Below you will find a link to a compressed file that includes instructions **in pdf** format for the following techniques:
 
 - Mindfulness of Breath (from [TMI](https://www.goodreads.com/book/show/25942786-the-mind-illuminated))
 
@@ -71,8 +71,3 @@ If you are interested in all-day practice, you might want to check [Sayadaw U Te
 ## Pragmatic Dharma
 
 For more information about Pragmatic Dharma, please visit [this link]({{< ref "pragmatic-dharma.md" >}}).
-
-&nbsp;
-## Note
-
-Please note that I'm not an expert. I am just a beginner, trying to help fellow meditators that know less than I do.

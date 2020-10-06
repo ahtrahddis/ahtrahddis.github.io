@@ -5,13 +5,13 @@ title = "welcome"
 &nbsp;
 ## Intro
 
-I'm a Buddhist geek.
+**ЯƧ** is a repository of (unofficial) dharma e-books (and more...).
+ 
+They were created using [markdown](https://en.wikipedia.org/wiki/Markdown)/[pandoc](https://pandoc.org/)/[calibre](https://pandoc.org/) and were uploaded on [this github page](https://github.com/ahtrahddis).
 
-I create dharma e-books using [markdown](https://en.wikipedia.org/wiki/Markdown)/[pandoc](https://pandoc.org/)/[calibre](https://pandoc.org/) and I upload them on [my github page](https://github.com/ahtrahddis).
+Below you will find an organized list with links to the github repositories of these books. 
 
-Below you will find a list with links to these files. 
-
-You can download them in **epub/mobi/azw3** formats (and some of them in pdf) and read them on your e-book device.
+You can download them in **epub/mobi/azw3** (and some of them in pdf) formats and read them on your e-book (preferably e-ink) device.
 
 &nbsp;
 
@@ -20,7 +20,7 @@ You can download them in **epub/mobi/azw3** formats (and some of them in pdf) an
 &nbsp;
 ## Mahasi Vipassana (Noting) (Burmese Theravada)
 
-The following links are from a website I have created, [mahasivipassana.com](https://mahasivipassana.com) (MVMR):
+The following links are from a sister-website, [mahasivipassana.com](https://mahasivipassana.com) (MVMR):
 
 - [Questions and Answers with Mahasi Sayadaw](https://mahasivipassana.com/docs/mahasi-qa/)
 
