@@ -68,6 +68,6 @@ If you are interested in all-day practice, you might want to check [Sayadaw U Te
 
 
 &nbsp;
-## Do you want to know more about "Pragmatic Dharma"?
+### Do you want to know more about "Pragmatic Dharma"?
 
 For more information about Pragmatic Dharma, please visit [this link]({{< ref "pragmatic-dharma.md" >}}).
