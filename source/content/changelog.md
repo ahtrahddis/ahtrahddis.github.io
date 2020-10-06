@@ -2,8 +2,6 @@
 title = "changelog"
 +++
 
-
-&nbsp;
 ## Changelog
 
 ### 2020-10-05

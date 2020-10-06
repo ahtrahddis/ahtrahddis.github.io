@@ -2,7 +2,6 @@
 title = "pragmatic dharma"
 +++
 
-&nbsp;
 ## What is Pragmatic Dharma?
 
 -  [What is Pragmatic Dharma?]({{< ref "texts/pragmatic-dharma/what-is-pragmatic-dharma.md" >}}) by [Ron Crouch](https://web.archive.org/web/20190424160827/https://alohadharma.com/about/)

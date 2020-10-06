@@ -2,7 +2,6 @@
 title = "welcome"
 +++
 
-&nbsp;
 ## Intro
 
 **RS** is a repository of (unofficial) dharma e-books (and more..).

@@ -2,7 +2,6 @@
 title = "useful links"
 +++
 
-&nbsp;
 ## Useful Links
 
 &nbsp;
