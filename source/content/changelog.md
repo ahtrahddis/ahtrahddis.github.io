@@ -8,6 +8,10 @@ title = "changelog"
 
 - massive revision of website texts
 
+### 2020-10-13
+- replaced text font with Inconsolata <sup><span>([commit](https://github.com/ahtrahddis/ahtrahddis.github.io/commit/70564a3938af90bebb362d6bdf1ee229902f596cs))
+
+
 ### 2020-10-05
 
 - replaced text font with IBM Plex Mono <sup><span>([commit](https://github.com/ahtrahddis/ahtrahddis.github.io/commit/22a2b188764f8e1a8877b33007caef528772ae98))</span></sup> - reverted to old (Verdana) font for the website title <sup><span>([commit](https://github.com/ahtrahddis/ahtrahddis.github.io/commit/219231749697b97f8ee1bd1a4645bf247f20fda3))</span></sup>
