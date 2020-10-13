@@ -4,13 +4,12 @@ title = "changelog"
 
 ## Changelog
 
-### 2020-10-06
-
-- massive revision of website texts
-
 ### 2020-10-13
 - replaced text font with Inconsolata <sup><span>([commit](https://github.com/ahtrahddis/ahtrahddis.github.io/commit/70564a3938af90bebb362d6bdf1ee229902f596cs))
 
+### 2020-10-06
+
+- massive revision of website texts
 
 ### 2020-10-05
 
