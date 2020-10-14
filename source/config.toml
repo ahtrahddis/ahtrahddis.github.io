@@ -4,7 +4,7 @@ baseURL = "https://ahtrahddis.github.io"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Яeversed Ƨiddhartha"
+title = "Reversed Siddhartha"
 author = "ahtrahddis"
 copyright = "Copyleft 2020, ahtrahddis."
 languageCode = "en-US"

@@ -4,8 +4,9 @@ title = "changelog"
 
 ## Changelog
 
-### 2020-10-13
-- replaced text font with Inconsolata <sup><span>([commit](https://github.com/ahtrahddis/ahtrahddis.github.io/commit/70564a3938af90bebb362d6bdf1ee229902f596cs))
+### 2020-10-15
+
+- added new google fonts <sup><span>([commit](https://github.com/ahtrahddis/ahtrahddis.github.io/commit/72358cac864b1cd229468bd897b87a1df611936b))</span></sup>
 
 ### 2020-10-06
 
