@@ -28,4 +28,4 @@ In order to read about website changes, new content addiditons etc., visit [this
 &nbsp;
 ## Software
 
-This website was created with [hugo](https://gohugo.io/) and  [hugo bear blog](https://github.com/janraasch/hugo-bearblog) theme.
+This website was created with [hugo](https://gohugo.io/) and  [hugo bear blog](https://github.com/janraasch/hugo-bearblog).
