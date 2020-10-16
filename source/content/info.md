@@ -5,7 +5,7 @@ title = "info"
 
 ## Who Am I?
 
-I'm just a beginner Buddhist g{r}eek.
+I'm a beginner Buddhist g{r}eek and a [hobbyist photographer](https://vlzetko.com).
 
 
 &nbsp;
@@ -28,4 +28,4 @@ In order to read about website changes, new content addiditons etc., visit [this
 &nbsp;
 ## Software
 
-This website was created with [hugo](https://gohugo.io/) and  [hugo bear blog](https://github.com/janraasch/hugo-bearblog).
+This website was created with [hugo](https://gohugo.io/) and  [hugo bearblog](https://github.com/janraasch/hugo-bearblog).
