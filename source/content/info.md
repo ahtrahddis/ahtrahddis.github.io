@@ -5,7 +5,7 @@ title = "info"
 
 ## Who Am I?
 
-I'm a beginner Buddhist g{r}eek and a [hobbyist photographer](https://vlzetko.com).
+I'm a beginner Buddhist g{r}eek and an [amateur photographer](https://vlzetko.com).
 
 
 &nbsp;
