@@ -3,6 +3,8 @@ title = "What is Pragmatic Dharma?"
 aliases = "/pragmaticc/what-is-pragmatic-dharma"
 +++
 
+# What is Pragmatic Dharma?
+
 <br>
 
 *This is an article by [Ron Crouch](https://web.archive.org/web/20190424160827/https://alohadharma.com/about/)*.

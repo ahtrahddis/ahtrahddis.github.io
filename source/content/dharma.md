@@ -2,6 +2,8 @@
 title = "dharma"
 +++
 
+# Dharma
+
 ## Practice
 
 ### Meditation instructions for beginners

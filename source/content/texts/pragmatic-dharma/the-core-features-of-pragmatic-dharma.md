@@ -2,6 +2,9 @@
 title = "The Core Features of Pragmatic Dharma"
 +++
 
+
+# The Core Features of Pragmatic Dharma
+
 <br>
 
 *This is [an article](https://www.pragmaticdharma.training/blog/core-features-pragmatic-dharma) by [Vince Horn](http://www.vincehorn.space/)*.

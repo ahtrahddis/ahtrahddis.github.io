@@ -2,29 +2,29 @@
 title = "useful links"
 +++
 
-## Useful Links
+# Useful Links
 
-&nbsp;
-### Teachers
+
+## Teachers
 
 - [Mahasi Sayadaw](https://mahasivipassana.com)
 
 - [Sayadaw U Tejaniya](https://ashintejaniya.org/)
 
 &nbsp;
-### Suttas
+## Suttas
 
 - [SuttaCentral](https://suttacentral.net/)
 
 - [Pali Audio](https://www.paliaudio.com)
 
 &nbsp;
-### Communities
+## Communities
 
 - [r/streamentry](https://www.reddit.com/r/streamentry/) (a practice oriented reddit community)
 
 &nbsp;
-### Online Books
+## Online Books
 
 - [Mindfulness in Plain English](https://www.vipassana.com/meditation/mindfulness_in_plain_english.php) by Ven. Henepola Gunaratana
 
@@ -33,14 +33,14 @@ title = "useful links"
 - [Contemplative Fitness](https://eudoxos.github.io/cfitness/html/index.html) by Kenneth Folk
 
 &nbsp;
-### Youtube
+## Youtube
 
 - [Doug's Dharma](https://www.youtube.com/channel/UCPIyEJzvW7SsbiIrooixjNA/videos) (an amazing secular/early Buddhism resource)
 
 - [Awakening from the Meaning Crisis](https://www.youtube.com/watch?v=54l8_ewcOlY&list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) by [John Vervaeke](https://www.psych.utoronto.ca/people/directories/all-faculty/john-vervaeke)
 
 &nbsp;
-### Podcasts
+## Podcasts
 
 - [Deconstructing Yourself](https://deconstructingyourself.com/deconstructing-yourself-podcast) by [Michael Taft](https://deconstructingyourself.com/michael-w-taft)
 
@@ -49,7 +49,7 @@ title = "useful links"
 - [Guru Viking](https://www.guruviking.com/) by Steve James
 
 &nbsp;
-### Various
+## Various
 
 - [The Hamilton Project](https://thehamiltonproject.blogspot.com/)
 
