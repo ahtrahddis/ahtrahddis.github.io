@@ -18,7 +18,7 @@ title = "dharma"
 
 - Do nothing from (from Shinzen's [Five ways to know yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) and "Do Nothing" Meditation [youtube video](https://www.youtube.com/watch?v=cZ6cdIaUZCA))
 
-- Metta (Loving Kindness) from ([this post](https://web.archive.org/web/20190220215420/https://alohadharma.com/loving-kindness-meditation/))
+- Metta (Loving Kindness) (from [this post](https://web.archive.org/web/20190220215420/https://alohadharma.com/loving-kindness-meditation/))
 
 &nbsp;
 ### Are you a complete beginner?
