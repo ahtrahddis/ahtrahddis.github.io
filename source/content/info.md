@@ -6,7 +6,11 @@ title = "info"
 
 ## Who Am I?
 
-I'm a secular Buddhist g{r}eek and an [amateur photographer](https://vlzetko.com).
+I'm a secular Buddhist Buddhist and an [amateur photographer](https://vlzetko.com).
+
+I used to be a [Mahasi noting](https://mahasivipassana.com) pragmatic geek, obsessed with the [Progress of Insight map](https://mahasivipassana.com/the-progress-of-insight-map/). 
+
+My current practice is heavily influenced by [Asin Tejaniya](https://ashintejaniya.org/), various secular non-dual teachers ([Diana Winston](https://dianawinston.com), [Loch Kelly](https://lochkelly.org), [Sam Harris](https://samharris.org), etc.) and [Soto Zen](https://www.sotozen.com/eng).
 
 &nbsp;
 ## Contact

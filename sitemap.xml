@@ -1,41 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ahtrahddis.github.io/dharma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahtrahddis.github.io/e-book-how-to/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahtrahddis.github.io/info/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahtrahddis.github.io/pragmatic-dharma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahtrahddis.github.io/texts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahtrahddis.github.io/texts/pragmatic-dharma/the-core-features-of-pragmatic-dharma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahtrahddis.github.io/links/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahtrahddis.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahtrahddis.github.io/texts/pragmatic-dharma/what-is-pragmatic-dharma/</loc>
   </url>
-  
 </urlset>
