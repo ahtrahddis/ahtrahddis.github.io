@@ -43,7 +43,7 @@ In addition to the instructions given above, you can also do some breath countin
 &nbsp;
 ### Are you interested in noting?
 
-If you have decided to go with noting (which is [Mahasi Sayadaw's Vipassana](https://mahasivipassana.com) technique), apart from theintroductory text included in the above pack, you can also read the following material:
+If you have decided to go with noting (which actually is nothing more than [Mahasi Sayadaw's famous Vipassana](https://mahasivipassana.com) technique), apart from the introductory text included in the above pack, you can also read the following material:
 
 - [Practical Vipassana Meditation Exercises](https://mahasivipassana.com/docs/practical-vipassana-meditation-exercises/)
 
