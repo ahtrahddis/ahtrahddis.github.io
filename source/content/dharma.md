@@ -23,7 +23,7 @@ title = "dharma"
 &nbsp;
 ### Are you a complete beginner?
 
-If you don't have any idea what these methods are all about but you 're curious to try, just start with  "mindfulness of breath". 
+If you don't have any idea what these methods are all about but you 're curious to try, just start with "mindfulness of breath". 
 
 In addition to the instructions given above, you can also do some breath counting (from 1 to 10 and back), as [Shargrol](https://github.com/atrahhdis/shargrol) suggests on the [following text](https://shargrolpostscompilation.blogspot.com/p/blog-page.html#awarenessandcountingofbreath):
 

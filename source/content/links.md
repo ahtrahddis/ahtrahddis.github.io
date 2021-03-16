@@ -7,9 +7,11 @@ title = "useful links"
 
 ## Teachers
 
-- [Mahasi Sayadaw](https://mahasivipassana.com)
-
 - [Sayadaw U Tejaniya](https://ashintejaniya.org/)
+
+- [Loch Kelly](https://lochkelly.org)
+
+- [Diana Winston](https://dianawinston.com/natural-awareness)
 
 &nbsp;
 ## Suttas
@@ -21,7 +23,7 @@ title = "useful links"
 &nbsp;
 ## Communities
 
-- [r/streamentry](https://www.reddit.com/r/streamentry/) (a practice oriented reddit community)
+- [r/streamentry](https://www.reddit.com/r/streamentry/) (a practice oriented Reddit community)
 
 &nbsp;
 ## Online Books
@@ -42,15 +44,9 @@ title = "useful links"
 &nbsp;
 ## Podcasts
 
-- [Deconstructing Yourself](https://deconstructingyourself.com/deconstructing-yourself-podcast) by [Michael Taft](https://deconstructingyourself.com/michael-w-taft)
-
-- [Buddhist Geeks](https://art19.com/shows/buddhist-geeks) by the [Buddhist Geeks team](https://www.buddhistgeeks.org/team)
-
-- [Guru Viking](https://www.guruviking.com/) by Steve James
+- [Zen Studies](https://zenstudiespodcast.com)
 
 &nbsp;
 ## Various
-
-- [The Hamilton Project](https://thehamiltonproject.blogspot.com/)
 
 - [Meditator-X](https://www.meditator-x.com/) (MettaJunkie's blog)

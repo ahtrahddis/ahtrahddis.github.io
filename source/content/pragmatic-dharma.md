@@ -13,7 +13,6 @@ In case you didn't notice it, there's a dedicated subsection with various Pragma
 &nbsp;
 ## What about the "mushroom culture"?
 
-
 Here's a short story shared by [Kenneth Folk](https://kennethfolkdharma.com/) via [his twitter account](https://twitter.com/kennethfolk):
 
 > 
