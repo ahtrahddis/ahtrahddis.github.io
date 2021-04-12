@@ -15,7 +15,7 @@ My current practice is heavily influenced by:
 - [Asin Tejaniya](https://ashintejaniya.org/)
 - various secular non-dual teachers ([Loch Kelly](https://lochkelly.org), [Stephan Bodian](https://www.stephanbodian.org/), [Diana Winston](https://dianawinston.com), [Richard Lang](https://www.headless.org/contact/richard-lang.htm), etc.)
 
-- [Soto Zen](https://www.sotozen.com/eng) (mainly [Kōdō Sawaki](https://en.wikipedia.org/wiki/K%C5%8Dd%C5%8D_Sawaki) and [Gudo Wafu Nishijima](https://en.wikipedia.org/wiki/Gud%C5%8D_Wafu_Nishijima))
+- [Soto Zen](https://www.sotozen.com/eng) (mainly [Kōdō Sawaki](https://en.wikipedia.org/wiki/K%C5%8Dd%C5%8D_Sawaki) and [Gudo Wafu Nishijima](https://en.wikipedia.org/wiki/Gud%C5%8D_Wafu_Nishijima) lineages)
 
 - Chan ([Sheng Yen](https://en.wikipedia.org/wiki/Sheng-yen) lineage)
 
