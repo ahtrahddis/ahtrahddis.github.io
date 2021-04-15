@@ -54,3 +54,6 @@ This website has also [an e-book section](https://atrahhdis.github.io/#pd), dedi
 My other website, [MVMR](https://mahasivipassana.com), has a dedicated subsection, where I have collected almost everything I have found about this map:
 
 - [The Progress of Insight (PoI) Map](https://mahasivipassana.com/the-progress-of-insight-map/)
+
+
+To be continued..
