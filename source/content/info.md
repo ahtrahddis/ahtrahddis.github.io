@@ -8,11 +8,11 @@ title = "info"
 
 I'm a secular Buddhist and an [amateur photographer](https://vlzetko.com).
 
-Until recently, I was a pragmatic [Mahasi noting](https://mahasivipassana.com) geek, obsessed with the [Progress of Insight map](https://mahasivipassana.com/the-progress-of-insight-map/). 
+Until recently, I was a pragmatic [Mahasi noting](https://mahasivipassana.com) geek, obsessed with the [Progress of Insight map](https://mahasivipassana.com/the-progress-of-insight-map/).
 
 My current practice is heavily influenced by:
  
-- [Asin Tejaniya](https://ashintejaniya.org/)
+- [Sayadaw U Tejaniya](https://ashintejaniya.org/)
 - various secular non-dual teachers ([Loch Kelly](https://lochkelly.org), [Stephan Bodian](https://www.stephanbodian.org/), [Diana Winston](https://dianawinston.com), [Richard Lang](https://www.headless.org/contact/richard-lang.htm), etc.)
 
 - [Soto Zen](https://www.sotozen.com/eng) (mainly [Kōdō Sawaki](https://en.wikipedia.org/wiki/K%C5%8Dd%C5%8D_Sawaki) and [Gudo Wafu Nishijima](https://en.wikipedia.org/wiki/Gud%C5%8D_Wafu_Nishijima) lineages)

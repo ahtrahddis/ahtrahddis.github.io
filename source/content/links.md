@@ -9,7 +9,11 @@ title = "useful links"
 
 - [Sayadaw U Tejaniya](https://ashintejaniya.org/)
 
+- [Sheng Yen](https://en.wikipedia.org/wiki/Sheng-yen)
+
 - [Loch Kelly](https://lochkelly.org)
+
+- [Stephan Bodian](https://www.stephanbodian.org/)
 
 - [Diana Winston](https://dianawinston.com/natural-awareness)
 
