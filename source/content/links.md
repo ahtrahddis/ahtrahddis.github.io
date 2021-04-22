@@ -4,7 +4,17 @@ title = "useful links"
 
 # Useful Links
 
+## Early Buddhism
 
+- [In the Buddha’s Words (open source edition)](https://readingfaithfully.org/in-the-buddhas-words-an-anthology-of-discourses-from-the-pali-canon-linked-to-suttacentral-net/)
+
+- [SuttaCentral](https://suttacentral.net/)
+
+- [Reading Faithfully](https://readingfaithfully.org/sutta-pitaka-e-books-epub-mobi-kindle/)
+
+- [Pali Audio](https://www.paliaudio.com)
+
+&nbsp;
 ## Teachers
 
 - [Sayadaw U Tejaniya](https://ashintejaniya.org/)
@@ -17,35 +27,23 @@ title = "useful links"
 
 - [Diana Winston](https://dianawinston.com/natural-awareness)
 
-&nbsp;
-## Suttas
-
-- [SuttaCentral](https://suttacentral.net/)
-
-- [Reading Faithfully](https://readingfaithfully.org/sutta-pitaka-e-books-epub-mobi-kindle/)
-
-- [Pali Audio](https://www.paliaudio.com)
 
 &nbsp;
 ## Communities
 
-- [r/streamentry](https://www.reddit.com/r/streamentry/) (a practice oriented Reddit community)
+- [r/streamentry](https://www.reddit.com/r/streamentry/)
+
+- [r/awakeawareness](https://www.reddit.com/r/awakeawareness/)
 
 &nbsp;
 ## Online Books
 
 - [Mindfulness in Plain English](https://www.vipassana.com/meditation/mindfulness_in_plain_english.php) by Ven. Henepola Gunaratana
 
-- [Mastering the Core Teachings of the Buddha](https://www.mctb.org/) by Daniel Ingram
-
-- [Contemplative Fitness](https://eudoxos.github.io/cfitness/html/index.html) by Kenneth Folk
-
 &nbsp;
 ## Youtube
 
 - [Doug's Dharma](https://www.youtube.com/channel/UCPIyEJzvW7SsbiIrooixjNA/videos) (an amazing secular/early Buddhism resource)
-
-- [Awakening from the Meaning Crisis](https://www.youtube.com/watch?v=54l8_ewcOlY&list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) by [John Vervaeke](https://www.psych.utoronto.ca/people/directories/all-faculty/john-vervaeke)
 
 &nbsp;
 ## Podcasts
