@@ -10,8 +10,6 @@ title = "useful links"
 
 - [SuttaCentral](https://suttacentral.net/)
 
-- [Reading Faithfully](https://readingfaithfully.org/sutta-pitaka-e-books-epub-mobi-kindle/)
-
 - [Pali Audio](https://www.paliaudio.com)
 
 &nbsp;
