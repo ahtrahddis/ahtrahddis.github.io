@@ -36,7 +36,7 @@ title = "useful links"
 &nbsp;
 ## Online Books
 
-- [Mindfulness in Plain English](https://www.vipassana.com/meditation/mindfulness_in_plain_english.php) by Ven. Henepola Gunaratana
+- [Mindfulness in Plain English](https://www.vipassana.com/meditation/mindfulness_in_plain_english.html) by Ven. Henepola Gunaratana
 
 &nbsp;
 ## Youtube
