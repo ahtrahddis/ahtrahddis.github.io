@@ -28,12 +28,11 @@ Recently, I gained interest in [Early Buddhist Texts](https://suttacentral.net/)
 &nbsp;
 ## Contact
 
-If you want to contact me, please send an email to: 
+If you found a typo or an issue with formatting etc., please consider opening an issue ticket on the relevant repository on my [Github page](https://github.com/ahtrahddis?tab=repositories). You can also fork my repo, make the proposed change and push back to me.
 
-``ns |at| mahasivipassana |dot| com`` 
+For any other inquiry, please open a ticket [here](https://github.com/ahtrahddis/ahtrahddis.github.io/issues).
 
 
-If you found a typo or wrong formatting or any other issue, apart from sending an email, you can fork the relevant github repository, make changes and submit a pull request.
 
 &nbsp;
 ## Website
