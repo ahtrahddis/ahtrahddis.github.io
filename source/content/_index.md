@@ -17,6 +17,41 @@ There, you can download these e-books in **epub/mobi/azw3** (and some of them in
 ---
 
 &nbsp;
+## Sayadaw U Tejaniya's Teachings (Burmese Theravada)
+
+- [Burmese Zen](https://github.com/ahtrahddis/tejaniya/tree/master/Burmese%20Zen)
+
+- [The Daily Tejaniya - 2015](https://github.com/ahtrahddis/tejaniya/tree/master/The%20Daily%20Tejaniya) 
+
+- [Right Attitude](https://github.com/ahtrahddis/tejaniya/tree/master/Right%20Attitude)
+
+&nbsp;
+
+---
+
+&nbsp;
+## Chan
+
+- [The Silent Illumination Method](https://github.com/ahtrahddis/donothing/tree/master/various/silent%20illumination) by [Sheng Yen](http://www.shengyen.org/eng)
+
+&nbsp;
+
+---
+
+&nbsp;
+## Soto Zen
+
+- [Handbook of Authentic Buddhism](https://github.com/ahtrahddis/nishijima) by [Nishijima](https://www.shobogenzo.net/)
+
+- [Zazen Instruction](https://github.com/ahtrahddis/donothing/tree/master/various/zazen%20instruction) by [Shohaku Okumura](https://dogeninstitute.wordpress.com/about/shohaku-okumura-roshi/)
+
+- [To You](https://github.com/ahtrahddis/sawaki) by [Kodo Sawaki](https://antaiji.org/archives/eng/sawaki-uchiyama.shtml)
+
+&nbsp;
+
+---
+
+&nbsp;
 ## Mahasi Vipassana (Noting) (Burmese Theravada)
 
 The following links go to a sister-website, [mahasivipassana.com](https://mahasivipassana.com) (MVMR):
@@ -44,19 +79,6 @@ These e-books can also be found on the [github repository of MVMR](https://githu
 ---
 
 &nbsp;
-## Sayadaw U Tejaniya's Teachings (Burmese Theravada)
-
-- [Burmese Zen](https://github.com/ahtrahddis/tejaniya/tree/master/Burmese%20Zen)
-
-- [The Daily Tejaniya - 2015](https://github.com/ahtrahddis/tejaniya/tree/master/The%20Daily%20Tejaniya) 
-
-- [Right Attitude](https://github.com/ahtrahddis/tejaniya/tree/master/Right%20Attitude)
-
-&nbsp;
-
----
-
-&nbsp;
 ## Pragmatic Dharma
 
 - [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/ahtrahddis/alohadharma) by Ron Crouch
@@ -78,28 +100,6 @@ These e-books can also be found on the [github repository of MVMR](https://githu
 - [Contemplative Fitness](https://github.com/ahtrahddis/cfitness) by [Kenneth Folk](https://kennethfolkdharma.com/) (**note:** I just forked [eudoxos' repository](https://github.com/eudoxos/cfitness) and pushed back some minor corrections)
 
 - [Saints & Psychopaths](https://github.com/ahtrahddis/saints) by William (Bill) L. Hamilton (**note:** I just forked [eudoxos' repository](https://github.com/eudoxos/saints) and pushed back some minor corrections)
-
-&nbsp;
-
----
-
-&nbsp;
-## Soto Zen
-
-- [Handbook of Authentic Buddhism](https://github.com/ahtrahddis/nishijima) by [Nishijima](https://www.shobogenzo.net/)
-
-- [Zazen Instruction](https://github.com/ahtrahddis/donothing/tree/master/various/zazen%20instruction) by [Shohaku Okumura](https://dogeninstitute.wordpress.com/about/shohaku-okumura-roshi/)
-
-- [To You](https://github.com/ahtrahddis/sawaki) by [Kodo Sawaki](https://antaiji.org/archives/eng/sawaki-uchiyama.shtml)
-
-&nbsp;
-
----
-
-&nbsp;
-## Chan
-
-- [The Silent Illumination Method](https://github.com/ahtrahddis/donothing/tree/master/various/silent%20illumination) by [Sheng Yen](http://www.shengyen.org/eng)
 
 &nbsp;
 
