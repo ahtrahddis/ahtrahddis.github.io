@@ -23,7 +23,7 @@ My current practice is heavily influenced by:
 - various secular non-dual teachers ([Loch Kelly](https://lochkelly.org), [Stephan Bodian](https://www.stephanbodian.org/), [Diana Winston](https://dianawinston.com), [Richard Lang](https://www.headless.org/contact/richard-lang.htm), etc.)
 
 
-Recently, I gained interest in [Early Buddhist Texts](https://suttacentral.net/), not as a means to follow the "real path" or whatever. I just lost interest in "Buddhist psychology" books and became curious to learn from the most accurate source, what probably Siddhartha Gautama taught.
+Recently, I gained interest in [Early Buddhist Texts](https://suttacentral.net/), not as a means to follow the "real path" or whatever. I just became curious to learn from the most accurate source, what probably Siddhartha Gautama taught.
 
 &nbsp;
 ## Contact
