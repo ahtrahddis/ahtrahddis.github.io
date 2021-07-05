@@ -28,10 +28,11 @@ Instructions for beginners Here, you will get a compressed file that includes in
       
       <guid>https://ahtrahddis.eu/e-book-how-to/</guid>
       <description>E-book Creation For the creation of all these e-books, the following procedure is followed:
-  the text is pasted &amp;amp; formatted with / written in / converted to markdown (and very rarely to html)
+  the text formatted with / written in / converted to markdown (and very rarely to html)
   the markdown (.md) file is converted to epub using pandoc
   the epub file is edited with calibre and finally&amp;hellip;
-  the epub file is converted to mobi and azw3 with calibre</description>
+  the epub file is converted to mobi and azw3 with calibre
+  for azw3 files, additional soft hyphenation is applied using hyphenate this!</description>
     </item>
     
     <item>

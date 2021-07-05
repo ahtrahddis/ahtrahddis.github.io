@@ -6,7 +6,7 @@ title = "e-book creation how-to"
  
  For the creation of all these e-books, the following procedure is followed:
 
-- the text is pasted & formatted with / written in / converted to [markdown](https://en.wikipedia.org/wiki/Markdown) (and very rarely to html)
+- the text formatted with / written in / converted to [markdown](https://en.wikipedia.org/wiki/Markdown) (and very rarely to html)
 
 - the markdown (**.md**) file is converted to **epub** using [pandoc](https://pandoc.org/)
 
@@ -14,7 +14,7 @@ title = "e-book creation how-to"
 
 - the **epub** file is converted to **mobi** and **azw3** with [calibre](https://calibre-ebook.com/)
 
-- for **azw3** files, additional soft hyphenation is added using [hyphenate this!](https://www.mobileread.com/forums/showthread.php?t=208534) calibre plugin
+- for **azw3** files, additional soft hyphenation is applied using [hyphenate this!](https://www.mobileread.com/forums/showthread.php?t=208534) calibre plugin
 
 Note, that for some texts, **pdf** files are provided too. These ones have either been created:
 
